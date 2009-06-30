@@ -97,11 +97,11 @@ Note: If you have an idea in your mind. Feel free, please show us and try to do 
 
 <br>
 
-**Assignment 1**
- 
+Assignment 1
+------------
+
 Define class Dog.
 
-<br>
 Step 1
 ------
 There are three dogs named Lassie, Fido and Stimpy.   
@@ -160,7 +160,8 @@ Let's improve <b>dog.rb</b>.
 <br>
 
 
-**Assignment 2**
+Assignment 2
+------------
 
 Follow these steps to create a tiny XML generator: <b>xml.rb</b>
 
