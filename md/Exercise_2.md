@@ -14,5 +14,7 @@ Add your code to display 'I like metaprogramming.'
 	# write your code here to display 'I like metaprogramming.'
 	 
 
-Hints: const_get, send
+**Hints:**
+
+- const_get, send
 

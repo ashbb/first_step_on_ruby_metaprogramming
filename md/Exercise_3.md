@@ -12,7 +12,8 @@ There are lots of ways to define singleton method.
 
 Write your codes and post them here. Let's discuss about them.
 
-Hints: 
+**Hints:**
+
 - def aninal.speak
 - singleton class
 - define_method

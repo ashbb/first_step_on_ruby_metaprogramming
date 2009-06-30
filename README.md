@@ -1,13 +1,10 @@
 First Step on Ruby Metaprogramming
 ==================================
 
-<br>
-
 First Week
 ==========
 Let's start learning Ruby Metaprogramming!
 
-<br>
 Study 0
 -------
 At first, review the built-in, read-only variable <b>self</b>
@@ -124,7 +121,8 @@ Look at [dog_game.rb](../tree/master/md/Dog_Step1.md). Expected output is the fo
 
 Create <b>dog.rb</b> stored the class Dog.
 
-Hints:    
+**Hints:**
+
 - class Dog has three methods: initialize, can, method_missing
 - may be useful to define the static data like this:
   MSGS = {:dance => 'is dancing', :poo => 'is a smelly doggy!', :laugh => 'finds this hilarious!'}
@@ -152,7 +150,8 @@ Look at [dog_game.rb](../tree/master/md/Dog_Step2.md). Expected output is the fo
 
 Let's improve <b>dog.rb</b>.
 
-Hints:    
+**Hints:**
+
 - use <b>can</b> method <b>with block</b> like this: <b>stimpy.can(:cry){"#{name} cried AHHHH"}</b>
 - define the <b>name</b> method
 
@@ -171,7 +170,7 @@ We can use it like this:
 - Need to write <b>XML</b> class with <b>xml_generate()</b> method.
 - Line 9-22 is our tiny DSL code to create the output (xml format text). It'll be stored to <b>sample_twitters.html</b> file at the last line.
 - Line 4-6 is the input data, just a sample for this practice.
-- Look at the output: [sample_twitters.html](../tree/master/md/sample_twitters_html.md) and a [screenshot](../src/XML_generator/step4/sample_twitters.html).
+- Look at the output: [sample_twitters.html](../tree/master/md/sample_twitters_html.md) and a [screenshot](../tree/master/imgs/sample_screenshot.png).
 
 <br>
 Step 1
@@ -248,7 +247,7 @@ Look at the [input and output](../tree/master/md/XML_Step3.md) for Step 3.
 Step 4
 ------
 Improve to accept the following inputs.   
-Use [this pic](../src/XML_generator/step4/b-satoshi.jpg) as a avatar.
+Use [this pic](../tree/master/imgs/b-satoshi.jpg) as a avatar.
 
 	html do
 	  body do

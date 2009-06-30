@@ -12,7 +12,8 @@ Define the following class without <b>class MaskedString</b>,  <b>def tr_vowel</
 	  end
 	end
 
-Hints: 
+**Hints:**
+
 - instance\_eval, class\_eval, define\_method
 - module, extend, extended
 - module, include, included
