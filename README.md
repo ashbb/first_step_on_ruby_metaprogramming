@@ -15,7 +15,7 @@ At first, review the built-in, read-only variable <b>self</b>
 Read the following two articles:
 
 - [self](http://rubylearning.com/satishtalim/ruby_self.html) - The current/default object
-- [self](../md/self.md) - Quote from Programming Ruby 1.9
+- [self](../md/tree/master/self.md) - Quote from Programming Ruby 1.9
 
 
 <br>
@@ -70,11 +70,11 @@ Exercises
 ---------
 Try to do the following exercises. Let's discuss all these exercises in the relevant thread in the First Week Forum.
 
-- [Exercise 1](../md/Exercise_1.md): Get the values from outside the class.
-- [Exercise 2](../md/Exercise_2.md): Add your code to display 'I like metaprogramming!'
-- [Exercise 3](../md/Exercise_3.md): Show lots of ways to define singleton method.
-- [Exercise 4](../md/Exercise_4.md): Glance into Ruby inside with binding method.
-- [Exercise 5](../md/Exercise_5.md): Define the class without `class` and `def`.
+- [Exercise 1](../md/tree/master/Exercise_1.md): Get the values from outside the class.
+- [Exercise 2](../md/tree/master/Exercise_2.md): Add your code to display 'I like metaprogramming!'
+- [Exercise 3](../md/tree/master/Exercise_3.md): Show lots of ways to define singleton method.
+- [Exercise 4](../md/tree/master/Exercise_4.md): Glance into Ruby inside with binding method.
+- [Exercise 5](../md/tree/master/Exercise_5.md): Define the class without `class` and `def`.
 
 <br>
 Watch the video
@@ -108,7 +108,7 @@ Define class Dog.
 Step 1
 ------
 There are three dogs named Lassie, Fido and Stimpy.   
-Look at [dog_game.rb](../md/Dog_Step1.md). Expected output is the following:
+Look at [dog_game.rb](../md/tree/master/Dog_Step1.md). Expected output is the following:
 
 	"Lassie is dancing"
 	"Lassie is a smelly doggy!"
@@ -135,7 +135,7 @@ Step 2
 ------
 Challenge a little bit improving.   
 
-Look at [dog_game.rb](../md/Dog_Step2.md). Expected output is the following:
+Look at [dog_game.rb](../md/tree/master/Dog_Step2.md). Expected output is the following:
 
 	"Lassie is dancing"
 	"Lassie is a smelly doggy!"
@@ -167,11 +167,11 @@ Follow these steps to create a tiny XML generator: <b>xml.rb</b>
 
 We can use it like this:
 
-- Look at [sample_html.rb](../md/sample_html.md)
+- Look at [sample_html.rb](../md/tree/master/sample_html.md)
 - Need to write <b>XML</b> class with <b>xml_generate()</b> method.
 - Line 9-22 is our tiny DSL code to create the output (xml format text). It'll be stored to <b>sample_twitters.html</b> file at the last line.
 - Line 4-6 is the input data, just a sample for this practice.
-- Look at the output: [sample_twitters.html](../md/sample_twitters_html.md) and a [screenshot](../src/XML_generator/step4/sample_twitters.html).
+- Look at the output: [sample_twitters.html](../md/tree/master/sample_twitters_html.md) and a [screenshot](../src/XML_generator/step4/sample_twitters.html).
 
 <br>
 Step 1
@@ -200,7 +200,7 @@ Create two files: <b>sample_html.rb</b> and <b>xml.rb</b>
 
 <br>
 
-Look at the [input and output](../md/XML_Step1.md) for Step 1.
+Look at the [input and output](../md/tree/master/XML_Step1.md) for Step 1.
 
 <br>
 Step 2
@@ -219,7 +219,7 @@ Improve to accept the following inputs.
 
 <br>
 
-Look at the [input and output](../md/XML_Step2.md) for Step 2.
+Look at the [input and output](../md/tree/master/XML_Step2.md) for Step 2.
 
 <br>
 Step 3
@@ -242,7 +242,7 @@ Improve to accept the following inputs.
 
 <br>
 
-Look at the [input and output](../md/XML_Step3.md) for Step 3.
+Look at the [input and output](../md/tree/master/XML_Step3.md) for Step 3.
 
 <br>
 Step 4
@@ -271,7 +271,7 @@ Use [this pic](../src/XML_generator/step4/b-satoshi.jpg) as a avatar.
 
 <br>
 
-Look at the [input and output](../md/XML_Step4.md) for Step 4.
+Look at the [input and output](../md/tree/master/XML_Step4.md) for Step 4.
 
 <br>
 Step 5
