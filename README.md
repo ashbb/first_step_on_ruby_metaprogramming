@@ -7,13 +7,18 @@ Let's start learning Ruby Metaprogramming!
 
 Study 0
 -------
-At first, review the built-in, read-only variable <b>self</b>
-
-Read the following two articles:
+1st, review the built-in, read-only variable <b>self</b>. Read the following two articles:
 
 - [self](http://rubylearning.com/satishtalim/ruby_self.html) - The current/default object
 - [self](../tree/master/md/self.md) - Quote from Programming Ruby 1.9
 
+2nd, review <b>singleton class</b>. Read the following article:
+
+- [Understanding Ruby Singleton Classes](http://pmade.com/articles/2008/ruby-singleton)
+
+3rd, review the <b>scope of variables</b>. Read the following article:
+
+- [Ruby Variable Scope](http://www.techotopia.com/index.php/Ruby_Variable_Scope)
 
 <br>
 Study 1
@@ -298,7 +303,10 @@ Interesting Articles
 --------------------
 
 - [Using method_missing and respond_to? to create dynamic methods](http://technicalpickles.com/posts/using-method_missing-and-respond_to-to-create-dynamic-methods)
+
 - [Ola Bini's blogs on Meta programming](http://ola-bini.blogspot.com/search/label/metaprogramming)
+
+- [The Ruby Language FAQ](http://www.rootr.net/rubyfaq.html)
 
 <br>
 Note
@@ -313,4 +321,4 @@ I'd like to exercise them at the next batch. ;-)
 <br><br>
 
 --------
-2009.6.30 Satoshi Asakawa
+2009.7.1 Satoshi Asakawa
