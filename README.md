@@ -12,7 +12,7 @@ Study 0
 - [self](http://rubylearning.com/satishtalim/ruby_self.html) - The current/default object
 - [self](../tree/master/md/self.md) - Quote from Programming Ruby 1.9
 
-- [When does self change?]() - Quote from The Ruby Object Model
+- [When does self change?](../tree/master/md/when_does_self_change.md) - Quote from The Ruby Object Model
 
 2nd, review <b>singleton class</b>. Read the following article:
 
