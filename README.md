@@ -23,7 +23,7 @@ Study 0
 <br>
 Study 1
 -------
-Learn about the following methods to read [The Book of Ruby](http://www.sapphiresteel.com/The-Book-Of-Ruby), Chapter 20: Dynamic Programming.
+To learn about the following methods read  [The Book of Ruby](http://www.sapphiresteel.com/The-Book-Of-Ruby), Chapter 20: Dynamic Programming.
 
 - eval
 - instance_eval
@@ -45,15 +45,15 @@ Learn about the following methods to read [The Book of Ruby](http://www.sapphire
 <br>
 Study 2
 -------
-Learn about the following singleton class (metaclass) to read \_why's hacking, [Seeing Metaclasses Clearly](http://whytheluckystiff.net/articles/seeingMetaclassesClearly.html).
+Read \_why's hacking, [Seeing Metaclasses Clearly](http://whytheluckystiff.net/articles/seeingMetaclassesClearly.html) to learn about the following singleton class (metaclass)
 
 - class << self; self; end
 
 <br>
 Study 3
 -------
-Learn about the following methods to read Marc-Andre Cournoyer's blog, [Extending your include knowledge of Ruby](http://macournoyer.wordpress.com/2007/07/06/extending-your-include-knowledge-of-ruby/). 
-And to read Ruby-Doc Core API: [Module#included](http://www.ruby-doc.org/core/classes/Module.html#M001683) and [Module#extended](http://www.ruby-doc.org/core/classes/Module.html#M001660)
+Read Marc-Andre Cournoyer's blog, [Extending your include knowledge of Ruby](http://macournoyer.wordpress.com/2007/07/06/extending-your-include-knowledge-of-ruby/) to learn about the following methods to read Marc-Andre Cournoyer's blog, [Extending your include knowledge of Ruby](http://macournoyer.wordpress.com/2007/07/06/extending-your-include-knowledge-of-ruby/). 
+Also read Ruby-Doc Core API: [Module#included](http://www.ruby-doc.org/core/classes/Module.html#M001683) and [Module#extended](http://www.ruby-doc.org/core/classes/Module.html#M001660)
 
 - include
 - extend
@@ -136,7 +136,7 @@ Create <b>dog.rb</b> stored the class Dog.
 <br>
 Step 2
 ------
-Challenge a little bit improving.   
+Challenge: Improve a little bit.   
 
 Look at [dog_game.rb](../tree/master/md/Dog_Step2.md). Expected output is the following:
 
@@ -281,7 +281,7 @@ Look at the [input and output](../tree/master/md/XML_Step4.md) for Step 4.
 <br>
 Step 5
 ------
-Want to replace <b>XML.new.xml_generate</b> to <b>XML.generate</b>.
+We want to replace <b>XML.new.xml_generate</b> to <b>XML.generate</b>.
 
 <br>
 
@@ -289,7 +289,7 @@ Want to replace <b>XML.new.xml_generate</b> to <b>XML.generate</b>.
 
 <br>
 
-<b>Let's discuss about your code in the relevant thread in the Second Week Forum.</b>
+<b>Let's discuss your code in the relevant thread in the Second Week Forum.</b>
 
 <br>
 
