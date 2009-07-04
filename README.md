@@ -7,10 +7,12 @@ Let's start learning Ruby Metaprogramming!
 
 Study 0
 -------
-1st, review the built-in, read-only variable <b>self</b>. Read the following two articles:
+1st, review the built-in, read-only variable <b>self</b>. Read the following articles:
 
 - [self](http://rubylearning.com/satishtalim/ruby_self.html) - The current/default object
 - [self](../tree/master/md/self.md) - Quote from Programming Ruby 1.9
+
+- [When does self change?]() - Quote from The Ruby Object Model
 
 2nd, review <b>singleton class</b>. Read the following article:
 
@@ -321,4 +323,4 @@ I'd like to exercise them at the next batch. ;-)
 <br><br>
 
 --------
-2009.7.1 Satoshi Asakawa
+2009.7.4 Satoshi Asakawa
