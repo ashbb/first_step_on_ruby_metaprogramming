@@ -1,0 +1,27 @@
+<html><head><script type="text/javascript" src="/js/code_highlighter.js"></script>
+<script type="text/javascript" src="/js/code_highlighter_ruby.js"></script>
+<base target="content">
+<link rel=StyleSheet href="/css/style.css" type="text/css" nedia=screen>
+</head>
+<body>
+<h2>Exercise 5</h2>
+
+<p>Define the following class without <b>class MaskedString</b>,  <b>def tr<em>vowel</b> and <b>def self.tr</em>vowel</b></p>
+
+<pre><code class="ruby">class MaskedString &lt; String
+  def tr_vowel
+    tr 'aeiou', '*'
+  end
+  def self.tr_vowel str
+    str.tr 'aeiou', '*'
+  end
+end
+</code></pre>
+
+<p><strong>Hints:</strong></p>
+
+<ul>
+<li>instance_eval, class_eval, define_method</li>
+<li>module, extend, extended</li>
+<li>module, include, included</li>
+</ul></body></html>
