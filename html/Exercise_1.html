@@ -1,0 +1,31 @@
+<html><head><script type="text/javascript" src="/js/code_highlighter.js"></script>
+<script type="text/javascript" src="/js/code_highlighter_ruby.js"></script>
+<base target="content">
+<link rel=StyleSheet href="/css/style.css" type="text/css" nedia=screen>
+</head>
+<body>
+<h2>Exercise 1</h2>
+
+<p>Could you get the values from outside the class A ?</p>
+
+<pre><code class="ruby">class A
+  def initialize
+    @a = 11
+    @@a = 22
+    a = 33
+  end
+  @a = 1
+  @@a = 2
+  a = 3
+end
+</code></pre>
+
+<p>Write your code which outputs like this:</p>
+
+<pre><code class="ruby">1
+2
+3
+11
+22
+33
+</code></pre></body></html>
