@@ -34,7 +34,7 @@ The superclass not only contains the bulk of the code but also establishes a con
 	      name = subcls.name.downcase + 's'
 	      
 	      # At this point, self is Base
-	      # Swith self to subclass by explicitly calling
+	      # Switch self to subclass by explicitly calling
 	      # set_table_name on subclass
 	      
 	      subcls.set_table_name(name)
