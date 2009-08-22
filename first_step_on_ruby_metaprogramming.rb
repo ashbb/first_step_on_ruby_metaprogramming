@@ -2,7 +2,7 @@
 require 'sinatra'
 
 get '/' do
-  IO.read './html/README.html'
+  IO.read './html/Ruby_Metaprogramming.html'
 end
 
 Dir.glob("./html/*.html").each do |path|

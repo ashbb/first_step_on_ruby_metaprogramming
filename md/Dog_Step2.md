@@ -34,12 +34,12 @@ Expected output is:
 	"Lassie is a smelly doggy!"
 	"Lassie finds this hilarious!"
 	
-	"Fido don't understand dance"
+	"Fido doesn't understand dance"
 	"Fido is smelly."
-	"Fido don't understand laugh"
+	"Fido doesn't understand laugh"
 	
 	"Stimpy is dancing"
-	"Stimpy don't understand poo"
-	"Stimpy don't understand laugh"
+	"Stimpy doesn't understand poo"
+	"Stimpy doesn't understand laugh"
 	"Stimpy cried AHHHH"
 

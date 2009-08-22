@@ -2,10 +2,10 @@
 require 'BlueCloth'
 
 HEAD =<<EOS
-<html><head><script type="text/javascript" src="static/code_highlighter.js"></script>
-<script type="text/javascript" src="static/code_highlighter_ruby.js"></script>
+<html><head><script type="text/javascript" src="/js/code_highlighter.js"></script>
+<script type="text/javascript" src="/js/code_highlighter_ruby.js"></script>
 <base target="content">
-<link rel=StyleSheet href="static/style.css" type="text/css" nedia=screen>
+<link rel=StyleSheet href="/css/style.css" type="text/css" nedia=screen>
 </head>
 <body>
 EOS

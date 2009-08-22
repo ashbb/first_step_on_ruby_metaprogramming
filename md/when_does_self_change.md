@@ -7,7 +7,7 @@ Only two things can change **self**
 
 - class/module definition
 
-*Quote from [The Ruby Object Model](http://scotland-on-rails.s3.amazonaws.com/2A04_DaveThomas-SOR.mp4) by Dave Thomas.*
+*Quote from [The Ruby Object Model](http://scotland-on-rails.s3.amazonaws.com/2A04_DaveThomas-SOR.mp4) by Dave Thomas.
 
 ---------------
 
