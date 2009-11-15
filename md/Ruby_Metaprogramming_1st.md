@@ -395,11 +395,3 @@ I'd like to hightly recommend this book. ;-)
 
 --------
 2009.8.22 Satoshi Asakawa
-
---------
-
-P.S.
-----
-Thank you for reading this tiny learning guide.   
-If you are curious, join **the Ruby Metaprogramming course** on [RubyLearning](http://www.rubylearning.org/class/). Details are [here](http://rubylearning.com/blog/2009/10/10/ruby-metaprogramming-new-batch-announced/).   
-See you! :-D
