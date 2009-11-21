@@ -78,7 +78,7 @@ Sure, classes are objects. You can run all the same methods on classes that you 
  => 68069450
 </code></pre>
 
-But I've already told you: classes store methods. They're different. Now I know you're probably a bit confused wondering, ÅgIf a class is an object, but objects are built on classes, isn't there a big confusing infinite cycle here that you're not explaining?Åh
+But I've already told you: classes store methods. They're different. Now I know you're probably a bit confused wondering, "If a class is an object, but objects are built on classes, isn't there a big confusing infinite cycle here that you're not explaining?"
 
 No, there's not. I hate to break it to you, but a class isn't really an object. From Ruby's source code:
 
@@ -120,7 +120,7 @@ The Object class sits at the very head of the table and comes down to participat
 What On Earth Are Metaclasses?
 ------------------------------
 
-The term metaclass is supposed mean Åga class which defines classes.Åh This definition doesn't really work with Ruby, though, since Åga class which defines a classÅh is simply: a Class.
+The term metaclass is supposed mean "a class which defines classes." This definition doesn't really work with Ruby, though, since "a class which defines a class" is simply: a Class.
 
 Look at how you can add a method in the Class class and then use it in class definitions.
 
@@ -140,7 +140,7 @@ Which prints Please no more attributes today. The attr_abort method can be used 
 
 You're constantly defining and redefining classes in Ruby. It's not meta, it's just part of the code. Classes hold methods. How can you complicate that?
 
-Since the earlier definition doesn't really work, I like to think of the Ruby metaclass as Åga class which an object uses to redefine itself.Åh
+Since the earlier definition doesn't really work, I like to think of the Ruby metaclass as "a class which an object uses to redefine itself."
 
 Do Objects Need Metaclasses?
 ----------------------------

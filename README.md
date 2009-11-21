@@ -7,4 +7,4 @@ I put the source files on this Github repo.
 
 
 --------
-2009.8.22 Satoshi Asakawa
+2009.11.21 Satoshi Asakawa
